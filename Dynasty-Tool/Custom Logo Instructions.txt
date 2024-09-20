@@ -1,0 +1,143 @@
+1.) Open the templates folder and then open "Logo Template.PSD"
+2.) Double-click the smart object named "namehere" and a new window will open.  Drop your custom logo on this layer and CTRL+S to save the smart object
+3.) Close the smart object and return to "Logo Template.PSD".  You should now see your custom logo.  Save as "logo.PNG"
+4.) Drop "logo.PNG" into the "custom" folder and rename it according to the list below
+5.) Open the templates folder and then open "Playoff Logo Template.PSD"
+6.) Double-click the smart object named "<--DOUBLE CLICK" and a new window will open
+7.) Double-click the smart object named "<--DOUBLE CLICK (LOGO)" and a new window will open.  Double-click that smart object as well.  Drop your custom logo on this layer and CTRL+S to save the smart object
+8.) Close the smart object and return to the previous smart object which should now show your logo.  CTRL+S to save this smart object
+9.) Close the smart object and return to the previous smart object which should now show your logo with a red background
+10.) Double-click the smart object named "<--DOUBLE CLICK (COLOR)" and a new window will open.  Use the paint bucket tool to fill the "CHANGE COLOR HERE" layer with your custom color and CTRL+S to save the smart object
+11.) Close the smart object and return to the previous smart object which should now show both your custom logo and your custom color background.  CTRL+S to save the smart object
+12.) Close the smart object and return to "Playoff Logo Template.PSD".  You should now see your completed custom Playoff Logo.  Save as "playoff.PNG"
+13.) Move "playoff.png"into "playoffs" folder and rename it according to the list below
+
+Find the team you want to replace from the list below and name your custom logo with what is to the right of the - (ex. replacing Boise State, name file "11.png" without the quotes)
+
+Air Force - 0.png
+Akron - 1.png
+Alabama - 2.png
+Appalachian State - 35.png
+Arizona - 3.png
+Arizona State - 4.png
+Arkansas - 5.png
+Arkansas State - 6.png
+Army - 7.png
+Auburn - 8.png
+Ball State - 9.png
+Baylor - 10.png
+Boise State - 11.png
+Boston College - 12.png
+Bowling Green - 13.png
+Buffalo - 14.png
+BYU - 15.png
+California - 16.png
+Central Michigan - 17.png
+Charlotte - 22.png
+Cincinnati - 18.png
+Clemson - 19.png
+Coastal Carolina - 63.png
+Colorado - 20.png
+Colorado State - 21.png
+Duke - 23.png
+East Carolina - 24.png
+Eastern Michigan - 25.png
+Florida - 26.png
+Florida Atlantic - 27.png
+Florida State - 29.png
+Fresno State - 30.png
+Georgia - 31.png
+Georgia Southern - 135.png
+Georgia State - 137.png
+Georgia Tech - 32.png
+Hawai'i - 33.png
+Houston - 34.png
+Illinois - 36.png
+Indiana - 37.png
+Iowa - 38.png
+Iowa State - 39.png
+James Madison - 28.png
+Kansas - 40.png
+Kansas State - 41.png
+Kent State - 42.png
+Kentucky - 43.png
+Louisiana - 101.png
+Louisiana Tech - 44.png
+Louisville - 45.png
+LSU - 46.png
+Marshall - 47.png
+Maryland - 48.png
+Memphis - 49.png
+Miami - 50.png
+Miami (OH) - 51.png
+Michigan - 52.png
+Michigan State - 53.png
+Mid Tenn State - 54.png
+Minnesota - 55.png
+Mississippi State - 56.png
+Missouri - 57.png
+Navy - 58.png
+NC State - 59.png
+Nebraska - 60.png
+Nevada - 61.png
+New Mexico - 62.png
+North Carolina - 64.png
+North Texas - 65.png
+Northern Illinois - 66.png
+Northwestern - 67.png
+Notre Dame - 68.png
+Ohio - 69.png
+Ohio State - 70.png
+Oklahoma - 71.png
+Oklahoma State - 72.png
+Old Dominion - 138.png
+Ole Miss - 73.png
+Oregon - 74.png
+Oregon State - 75.png
+Penn State - 76.png
+Pittsburgh - 77.png
+Purdue - 78.png
+Rice - 79.png
+Rutgers - 80.png
+San Diego State - 81.png
+San Jose State - 82.png
+SMU - 83.png
+South Alabama - 139.png
+South Carolina - 84.png
+Southern Miss - 85.png
+Stanford - 86.png
+Syracuse - 87.png
+TCU - 88.png
+Temple - 89.png
+Tennessee - 90.png
+Texas - 91.png
+Texas A&M - 92.png
+Texas State - 134.png
+Texas Tech - 93.png
+Toledo - 94.png
+Troy - 95.png
+Tulane - 96.png
+Tulsa - 97.png
+UAB - 98.png
+UCF - 99.png
+UCLA - 100.png
+ULM - 102.png
+UNLV - 103.png
+USC - 104.png
+USF - 105.png
+Utah - 106.png
+Utah State - 107.png
+UTEP - 108.png
+UTSA - 136.png
+Vanderbilt - 109.png
+Virginia - 110.png
+Virginia Tech - 111.png
+Wake Forest - 112.png
+Washington - 113.png
+Washington State - 114.png
+West Virginia - 115.png
+Western Kentucky - 133.png
+Western Michigan - 116.png
+Wisconsin - 117.png
+Wyoming - 118.png
+

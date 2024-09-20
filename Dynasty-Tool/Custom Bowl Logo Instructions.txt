@@ -1,0 +1,40 @@
+1.) Save your custom bowl logo as a .png and name it according to the list below
+2.) Place newly named custom bowl logo into the folder of whichever type of playoff (four, eight, twelve, or fourteen) you are wanting to use the custom logo on
+3.) If you are replacing any of the New Year's Six games/logos, place your custom logo into the "bowlselect" folder as well.  This folder controls the six logos that show up when clicking a logo within the tool to change bowls
+
+Find the bowl you want to replace from the list below and name your custom logo with what is to the right of the - (ex. replacing Vrbo Fiesta Bowl, name file "16.png" without the quotes)
+
+CFP National Championship - 1.png
+Valero Alamo Bowl - 13.png
+AutoZone Liberty Bowl - 14.png
+Goodyear Cotton Bowl Classic - 15.png
+Vrbo Fiesta Bowl - 16.png
+Cheez-It Citrus Bowl - 17.png
+TaxSlayer Gator Bowl - 18.png
+68 Ventures Bowl - 19.png
+DirecTV Holiday Bowl - 20.png
+TaxAct Texas Bowl - 21.png
+Famous Idaho Potato Bowl - 22.png
+Radiance Technologies Independence Bowl (CFP Opening Round on 12-team and 14-team playoff) - 23.png
+Guaranteed Rate Bowl - 24.png
+SRS Distribution Las Vegas Bowl - 25.png
+QuickLane Bowl - 26.png
+TransPerfect Music City Bowl - 27.png
+R+L Carriers New Orleans Bowl - 28.png
+CapitalOne Orange Bowl - 29.png
+ReliaQuest Bowl - 30.png
+Chick-fil-A Peach Bowl - 31.png
+Rose Bowl - 32.png
+Starco Brands LA Bowl (CFP Opening Round on 12-team and 14-team playoff) - 33.png
+Lockheed Martin Armed Forces Bowl - 34.png
+Barstool Sports Arizona Bowl - 35.png
+Allstate Sugar Bowl - 36.png
+Tony the Tiger Sun Bowl - 37.png
+Pop-Tarts Bowl - 38.png
+EasyPost Hawai'i Bowl - 79.png
+Duke's Mayo Bowl - 80.png
+76 Birmingham Bowl (CFP Opening Round on 12-team and 14-team playoff) - 112.png
+Isleta New Mexico Bowl (CFP Opening Round on 12-team and 14-team playoff) - 113.png
+UnionHome Gasparilla Bowl (CFP Opening Round on 14-team playoff) - 115.png
+Go Bowling Military Bowl - 116.png
+Servpro First Responder Bowl (CFP Opening Round on 14-team playoff) - 120.png
